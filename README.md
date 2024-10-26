@@ -4,6 +4,7 @@ Dynamic pricing is a data-driven pricing strategy that adapts in real-time to ma
 Problem Statement:
 This study aims to find dynamic pricing in data-driven environments requires developing sophisticates algorithms to adapt pricing in real-time, balancing profit maximization with fair/ethical pricing practices
 
+The below images are the graphs that helped me draw valuable insights.
 ![image](https://github.com/user-attachments/assets/43d528ab-f72b-4385-bf45-58ff544c9e9c)
 
 ![image](https://github.com/user-attachments/assets/ff89e347-82db-4abc-b93f-d684fabf183a)
@@ -18,4 +19,4 @@ This study aims to find dynamic pricing in data-driven environments requires dev
 
 ![image](https://github.com/user-attachments/assets/a393c156-bd71-4cd7-a3ff-5eaeebd04457)
 
-Ride-sharing platforms use dynamic pricing to adjust the price of rides based on real-time demand. This helps to increase revenue and efficiency for platforms, and reduce congestion. Riders can often find discounted rides when demand is low, but may pay more during peak hours. Overall, dynamic pricing is a complex issue with both pros and cons, but it is important for riders to be aware of how it works so they can make informed decision
+Ride-sharing platforms use dynamic pricing to adjust the price of rides based on real-time demand. This helps to increase revenue and efficiency for platforms, and reduce congestion. Riders can often find discounted rides when demand is low, but may pay more during peak hours. Overall, dynamic pricing is a complex issue with both pros and cons, but it is important for riders to be aware of how it works so they can make informed decision.
